@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="BatteryView">
+        <attr name="headcolor" format="color"/>
+        <attr name="bodycolor" format="color"/>
+        <attr name="progresscolor" format="color"/>
+        <attr name="progress" format="integer"/>
+    </declare-styleable>
+</resources>
